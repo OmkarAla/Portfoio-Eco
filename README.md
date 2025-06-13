@@ -9,7 +9,7 @@ A responsive single-page portfolio website built for the Web Development Interns
 - Three.js (for 3D model integration)
 
 ## Deployment
-- Deployed on: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app) *(replace with your actual URL)*
+- Deployed on: [https://your-vercel-url.vercel.app]([https://your-vercel-url.vercel.app](https://portfoio-eco.vercel.app/)) *(replace with your actual URL)*
 - Steps: `npm install`, `vercel deploy`
 
 ## 3D Integration
